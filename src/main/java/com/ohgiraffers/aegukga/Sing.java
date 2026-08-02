@@ -6,6 +6,7 @@ public class Sing {
 
         // 1절 출력부
         System.out.println("동해물과 백두산이");
+        System.out.println("하느님이 보우하사");
 
         // 후렴구 출력부
         System.out.println("무궁화 삼천리 화려강산" +
